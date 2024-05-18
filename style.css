@@ -12,9 +12,10 @@
     border-radius: 5px;
 }
 .card img{
-    border: 1px solid burlywood;
+    border: 1px solid rgb(115, 108, 224);
     border-radius: 5px;
     width: 70%;
+    padding: 10px;
     
 }
 .card h3{
